@@ -1,12 +1,15 @@
 button {
-	margin-top: 20px 5px 0 5px;
+	margin: 5px;
 	background-color: #ee533c;
-	width: 100px;
+	width: auto;
     font-size: 20px;
     color: white;
 
 }
 
+p {
+	font-size: 30px; 
+}
 .item {
 	float: left;
 	margin: 20px 10px;
@@ -18,4 +21,9 @@ button {
 
 form {
 	float: right;
+	margin: 5px;
+}
+
+.container {
+	margin-top: 20px;
 }

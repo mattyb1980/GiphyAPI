@@ -1,11 +1,11 @@
 $(document).ready()
 
 	// Initial array of animals
-	var animals = ["Dog", "Cat", "Rabbit", "Sloth"];
+	var animals = ["Dog", "Cat", "Rabbit", "Sloth", "Roger Rabbit", "Brian Griffin", "Bat", "Parrot", "Santa's Little Helper"];
 
 	
 	function displayGifs() {
-		
+
 		$("#animalImages").empty();
 
 		
