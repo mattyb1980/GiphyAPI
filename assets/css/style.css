@@ -1,0 +1,21 @@
+button {
+	margin-top: 20px 5px 0 5px;
+	background-color: #ee533c;
+	width: 100px;
+    font-size: 20px;
+    color: white;
+
+}
+
+.item {
+	float: left;
+	margin: 20px 10px;
+}
+
+#button-view {
+	float: left;
+}
+
+form {
+	float: right;
+}
